@@ -8,6 +8,7 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "viteinit": "deno init --npm vite",
     "shadcn": "deno run -A npm:shadcn@latest init -t vite"
   },
   "dependencies": {
