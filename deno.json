@@ -1,0 +1,4 @@
+{
+  "allowScripts": ["npm:msw@2.12.14"],
+  "nodeModulesDir": "auto"
+}
